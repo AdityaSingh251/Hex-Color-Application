@@ -1,1 +1,1 @@
-#JavaScript Hex color Background Generator
+#Hex Color Application using Javascript
